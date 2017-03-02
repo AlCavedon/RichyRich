@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichyRich", "RichyRich\RichyRich.csproj", "{849DF049-2DBC-4288-B9D9-B8A80754AFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichyRich.Tests", "RichyRich.Tests\RichyRich.Tests.csproj", "{7E838302-8142-4D4F-B640-E6F7B78E6528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849DF049-2DBC-4288-B9D9-B8A80754AFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849DF049-2DBC-4288-B9D9-B8A80754AFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849DF049-2DBC-4288-B9D9-B8A80754AFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849DF049-2DBC-4288-B9D9-B8A80754AFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E838302-8142-4D4F-B640-E6F7B78E6528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E838302-8142-4D4F-B640-E6F7B78E6528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E838302-8142-4D4F-B640-E6F7B78E6528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E838302-8142-4D4F-B640-E6F7B78E6528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
